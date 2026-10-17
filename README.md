@@ -18,7 +18,7 @@ java -version
 
 ## Суулгах
 ```bash
-git clone https://github.com/bunzashi/todo-cli.git
+git clone https://github.com/bunzashi/todo-clio.git
 cd todo-cli
 ```
 
